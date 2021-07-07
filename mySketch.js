@@ -75,7 +75,7 @@ function draw() {
 		stroke(255, 0, bri);
 		push();
 		rotate(i);
-		line(-height / 2 + 20, 0, height / 2 - 20, 0);
+		line(-400, 0, 400, 0);
 		pop();
 	}
 	pop();
